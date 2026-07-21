@@ -1,0 +1,18 @@
+node_modules/
+dist/
+out/
+.vite/
+*.log
+.env
+.env.local
+release/
+
+# C#
+bin/
+obj/
+*.user
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db

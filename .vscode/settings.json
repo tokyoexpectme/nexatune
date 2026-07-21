@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "i18n-ally.localesPaths": ["apps/ui-react/src/i18n/locales"]
+}
